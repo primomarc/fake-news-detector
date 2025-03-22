@@ -25,3 +25,25 @@ A Machine Learning-powered web application that detects whether a news article i
 ---
 
 ## 📂 Project Structure  
+
+🤝 Contributing
+Want to improve this project?
+
+Fork the repo
+
+Create a new branch
+
+Submit a pull request
+
+🎯 Future Enhancements
+🚀 Improve accuracy with Deep Learning (BERT)
+🚀 Add database storage for detected news
+🚀 Support for multiple languages
+
+📝 License
+This project is MIT Licensed. Feel free to use and modify it!
+
+💡 Marc Lester M. Ibañez | marclester0701@gmail.com
+👤 Marc Lester M. Ibañez
+🔗 https://www.linkedin.com/in/marc-lester-iba%C3%B1ez-858569128
+📧 Email: marclester0701@gmail.com
